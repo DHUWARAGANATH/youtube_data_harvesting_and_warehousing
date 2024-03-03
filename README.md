@@ -43,6 +43,7 @@ Explain how data is collected from YouTube channels using the YouTube Data API. 
 
 ## Data Storage
 Discuss the choice of MongoDB and MySQL for data storage. Explain the benefits of using each database type and how they complement each other in your solution.
+https://github.com/DHUWARAGANATH/youtube_data_harvesting_and_warehousing/issues/1#issue-2165474216
 
 ## Streamlit Dashboard
 Describe the Streamlit dashboard and its functionalities. Provide instructions on how users can interact with the dashboard to visualize data and perform queries.
