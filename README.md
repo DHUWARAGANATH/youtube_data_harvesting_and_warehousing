@@ -1,4 +1,13 @@
-# youtube_data_harvesting_and_warehousing
+# YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit.
+
+Problem Statement: The problem statement is to create a Streamlit application that allows users to access and analyze data from multiple YouTube channels.
+
+NAME : Dhuwaraganath S
+
+BATCH: MDTM16
+
+DOMAIN : DATA SCIENCE
+
 ## Introduction:
 
 The YouTube Data Harvesting and Warehousing project is designed to provide a comprehensive solution for gathering, storing, and analyzing data from the YouTube platform. YouTube, being one of the largest video-sharing platforms globally, hosts an immense amount of valuable data ranging from video metadata to user engagement metrics. This project aims to leverage this data to extract insights that can be beneficial for content creators, marketers, researchers, and decision-makers alike.
@@ -20,7 +29,7 @@ The YouTube Data Harvesting and Warehousing project is designed to provide a com
 ## Requirement Libraries to Install
  * pip install google-api-python-client, pymongo, mysql-connector-python,pymysql,pandas,streamlit.
 
-## 3. Import Libraries
+## Import Libraries
 
 ### Youtube API libraries
 * import googleapiclient.discovery
@@ -47,5 +56,3 @@ Discuss the choice of MongoDB and MySQL for data storage. Explain the benefits o
 ## Streamlit Dashboard
 Describe the Streamlit dashboard and its functionalities. Provide instructions on how users can interact with the dashboard to visualize data and perform queries.
 
-# Sample Screenshots
-Include some sample screenshots or GIFs demonstrating the Streamlit dashboard in action. This will give users a better understanding of what to expect when using your application.
