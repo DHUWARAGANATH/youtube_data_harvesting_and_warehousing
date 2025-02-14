@@ -9,7 +9,7 @@ from googleapiclient.errors import HttpError
 #Api connection
 api_service_name = "youtube"
 api_version = "v3"
-api_key="AIzaSyCr9rKN-D75lv6-kQ1S759_bs3uBYtent8"
+api_key=""
 youtube = googleapiclient.discovery.build(api_service_name, api_version,developerKey= api_key)
 
 #channel_id input
